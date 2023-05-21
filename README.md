@@ -1,4 +1,4 @@
-# Simple-digit-clock-
+# Simple-digit-clock
 Simple Digit Clock using Python!
 # How to Run the Program
 To run the program, simply open your terminal or command prompt and navigate to the directory where you have downloaded the digit-clock.py file. Once you're in the correct directory, run the following command:
